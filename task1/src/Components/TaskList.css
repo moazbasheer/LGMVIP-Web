@@ -1,0 +1,13 @@
+.task {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.task-content {
+    margin-right: 50px;
+}
+.task-remove {
+    margin-left: 5px;
+}
